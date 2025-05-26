@@ -5,3 +5,9 @@ D:\
       ├── about.html       # About page
       ├── projects.html    # Projects page
       └── contact.html     # Contact page
+
+Visit these pages in your browser:
+http://127.0.0.1:5000/ → Home
+http://127.0.0.1:5000/about → About
+http://127.0.0.1:5000/projects → Projects
+http://127.0.0.1:5000/contact → Contact
