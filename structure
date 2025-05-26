@@ -1,0 +1,7 @@
+D:\
+ ├── app.py
+ └── templates
+      ├── index.html       # Home page
+      ├── about.html       # About page
+      ├── projects.html    # Projects page
+      └── contact.html     # Contact page
